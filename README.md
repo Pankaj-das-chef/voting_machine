@@ -12,3 +12,7 @@ In voting mode, the machine accepts votes from four candidates. <br />
 In result mode, the machine displays the vote count for each candidate. <br />
 The machine uses a counter to detect valid votes based on the duration of the button press. <br />
 The machine logs the votes for each candidate and displays the results in result mode. <br />
+
+Output of the code. <br />
+
+![Screenshot 2024-07-23 025447](https://github.com/user-attachments/assets/20f992d1-a7f3-4379-a615-5884a9e548df)
